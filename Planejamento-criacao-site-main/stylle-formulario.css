@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: #96d4d4;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    background: #65e3fca9;
+    align-items: center;
+    height: 80px;
+    box-shadow: 0px 1px 10px 5px rgba(7, 23, 122, 0.4);
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
+
+.formulario {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    font-size: 18px;
+}
+
+footer {
+    display: block;
+    background: #65e3fca9;
+    text-align: center;
+    line-height: 1.5rem;
+    letter-spacing: .1rem;
+    color: #05004d;
+    height: 60px;
+    box-shadow: 0px 1px 10px 5px rgba(7, 23, 122, 0.4);
+}
+
+.p_footer {
+    padding-top: 5px;
+}
+
+
+/* estilização formulario*/
+
+.cog-branding--minimal .cog-branding__powered,
+ :root:root:root:root:root .cog-branding--minimal .cog-branding__powered {
+    display: none;
+    visibility: hidden!important;
+}
+
+.cog-branding--minimal,
+html .cog-branding--minimal *,
+ :root:root:root:root:root .cog-branding--minimal,
+ :root:root:root:root:root .cog-branding--minimal {
+    display: none;
+    visibility: hidden!important;
+}
+
+html .cog-abuse,
+ :root:root:root:root:root .cog-abuse {
+    display: none;
+}
+
+
+/*  acima aplicado em div hidden e none para remoção de link, icone e botão cognitoforms*/
