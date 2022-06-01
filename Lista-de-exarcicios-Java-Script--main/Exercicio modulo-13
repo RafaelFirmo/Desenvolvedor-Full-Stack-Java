@@ -1,0 +1,14 @@
+## Lista de Exercícios: 
+1 - Descrever um algoritimo para resolver o problema da travessia de modo "seguro": 
+
+1.( Inicio )  Homem deixa lobo e alfafa. realiza viagem com a cabra;
+2. Homem retorna;
+3. Realiza  viagem com alfafa;
+4. Homem retorna com  a cabra;
+5. Homen realiza viagem com lobo;
+6. Homen retorna;
+7. (Fim)  Homem realiza viagem com a cabra
+
+
+2 -  JS: Exibir média de 3 numeros com entradas, link fiddle .
+https://jsfiddle.net/RafaelFirmo/pf1b48uj/44/
